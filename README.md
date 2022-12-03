@@ -4,3 +4,6 @@ Repository for storing code for my Pace University course CS675 Introduction To 
 
 ## Project 1
 In this project, the task was to perform an EDA (Exploratory Data Analysis) on a dataset of customer churn in the telecommunications industry. I inspected the raw dataset, cleaned it, and examined each of the variables and their relationships to each other, in order to predict the variables that affect churning of customers (churn is when customers leave the company). 
+
+## Project 2
+This project was a continuation of Project #1. In this project, I performed various stages of machine learning analysis on the same dataset and used four models to generate predictions - Naive Bayes, Logistic Regression, Random Forest, and XGBoost. I performed SMOTE analysis and hyperparameter tuning for these models, and analyzed the best model for predicting churn. I also did a video code walkthrough, available here: https://www.youtube.com/watch?v=VVIC3dSqqk8&t=25s
