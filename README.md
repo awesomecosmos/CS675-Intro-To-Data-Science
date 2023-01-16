@@ -12,3 +12,8 @@ This project was a continuation of [Project #1](https://github.com/awesomecosmos
 
 - Class presentation of this project: https://www.youtube.com/watch?v=M1PMJYq2hhI
 - Full code walkthrough of this project: https://www.youtube.com/watch?v=VVIC3dSqqk8&t=25s
+
+## Project 3
+In [this project](https://github.com/awesomecosmos/CS675-Intro-To-Data-Science/blob/main/Project3/project3.ipynb), the task was to perform predictive time-series forecasting on a dataset of New York City's electric consumption for its 5 boroughs. I extracted the data from the [City of New York website](https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2022-/jr24-e7cr) and used the FB Prophet package for Python to perform predictive time-series forecasting on this dataset.
+
+- Class presentation of this project: https://youtu.be/58s0qYSVGaQ
